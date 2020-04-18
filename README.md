@@ -66,5 +66,6 @@
 
 # Инструкция
 ## 1. Скачайте .apk файл с https://cloud.mail.ru/public/GZqD/2XFWPGTHp на Android смартфон
-## 2. Установите на Android смартфон
-## 3. Наслаждайтесь игрой
+## 2. Или скачать с GitHub https://github.com/martynovr/Local-Hack-Day-NONE-CorClickGame/blob/master/CorClickGame.apk
+## 3. Установите на Android смартфон
+## 4. Наслаждайтесь игрой
